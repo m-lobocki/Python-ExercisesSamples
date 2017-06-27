@@ -1,0 +1,1 @@
+# the same exercise as ex72
